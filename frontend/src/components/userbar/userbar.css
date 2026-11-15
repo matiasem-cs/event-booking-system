@@ -1,0 +1,29 @@
+
+
+.user-info {
+    display: flex;
+    align-items: center;
+    margin-right: auto; 
+}
+
+.user-info .user-info-avatar:hover {
+    cursor: pointer;
+}
+
+.future-event-box {
+    height: 40px;
+    background-color: #f3f3f3;
+    color: #0056b3;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px 16px;
+    display: flex;
+    align-items: center;
+    margin-left: 16px;
+    margin-right: 30px;
+}
+
+.rating-info {
+    margin-right: 40px;
+}
+

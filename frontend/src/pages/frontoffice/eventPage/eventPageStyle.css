@@ -1,0 +1,25 @@
+.event-desc img {
+    width: 30%;
+    border-radius: 10px;
+    margin-left: 8px;
+}
+
+.info-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.rating-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+/* comment section */
+.comment-section-container {
+    width: fit-content; /* Adjust width as needed */
+    margin: 0 auto;
+}
+
+
+
